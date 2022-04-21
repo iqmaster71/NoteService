@@ -1,0 +1,1 @@
+F:\Project\NoteService\build\classes\kotlin\main\ru\netology\Comment.class;F:\Project\NoteService\build\classes\kotlin\main\ru\netology\MainKt.class;F:\Project\NoteService\build\classes\kotlin\main\ru\netology\Note.class;F:\Project\NoteService\build\classes\kotlin\main\ru\netology\NoteService.class

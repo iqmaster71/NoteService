@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.MainKtTest" tests="24" skipped="0" failures="0" errors="0" timestamp="2022-04-17T08:30:06" hostname="DESKTOP-O3IINL9" time="0.188">
+  <properties/>
+  <testcase name="restoreCommentIfNotExistNote" classname="ru.netology.MainKtTest" time="0.019"/>
+  <testcase name="editCommentIfNotExistNote" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="deleteCommentIfNotExistNote" classname="ru.netology.MainKtTest" time="0.145"/>
+  <testcase name="editComment" classname="ru.netology.MainKtTest" time="0.001"/>
+  <testcase name="editNotValidComment" classname="ru.netology.MainKtTest" time="0.001"/>
+  <testcase name="restoreNotValidComment" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="editDeletedComment" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="addCommentIfCommentsListIsEmpty" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="deleteNoteWithExistId" classname="ru.netology.MainKtTest" time="0.013"/>
+  <testcase name="getAllNotes" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="editNoteWithExistId" classname="ru.netology.MainKtTest" time="0.001"/>
+  <testcase name="restoreComment" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="editNoteWithNotExistId" classname="ru.netology.MainKtTest" time="0.001"/>
+  <testcase name="getNoteIfExistId" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="deleteComment" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="addCommentNotValidNote" classname="ru.netology.MainKtTest" time="0.001"/>
+  <testcase name="addNoteIfListNotEmpty" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="addCommentIfCommentsListIsNotEmpty" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="getCommentsNotExistNote" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="getComments" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="getNoteIfNotExistId" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="addNoteIfListEmpty" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="deleteNoteWithNotExistId" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="deleteDeletedComment" classname="ru.netology.MainKtTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
